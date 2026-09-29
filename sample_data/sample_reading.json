@@ -1,0 +1,8 @@
+{
+  "device_id": "PLANT-001",
+  "soil_moisture": 32,
+  "temperature": 29.4,
+  "humidity": 61,
+  "light_level": 72,
+  "timestamp": "2026-09-29T10:00:00Z"
+}

@@ -1,0 +1,2 @@
+# Install only for PostgreSQL / managed cloud database mode.
+psycopg[binary]>=3.2,<4.0
